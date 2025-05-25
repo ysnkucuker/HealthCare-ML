@@ -63,4 +63,6 @@ Model, fatura tutarlarını oldukça isabetli tahmin edebilmekte ve verilerin %8
 
 > Projenin Kaggle notebook bağlantısı:  
 > 📎 [https://www.kaggle.com/yaskucuker/healthcare-billing-prediction](https://www.kaggle.com/work/collections/15975042)
+> 📎 [https://www.kaggle.com/yaskucuker/healthcare-billing-prediction](https://www.kaggle.com/code/yaskucuker/algorithm2)
+> 📎 [https://www.kaggle.com/yaskucuker/healthcare-billing-prediction](https://www.kaggle.com/code/yaskucuker/datavisualization)
 
